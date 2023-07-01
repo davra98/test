@@ -5,4 +5,4 @@ uga
 Modifica che poi committo e mergio
 
 ush
-small
+smal
